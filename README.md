@@ -7,7 +7,7 @@ Distributed locking is implemented to protect a shared file. The file only conta
 2) Process requests for resource access to the mediator.
 3) The syntax for mediator is ./Mediator
 4) The syntax for process is ./Process processNumber
-5) Mediator has to be started first before starting other processes
+5) Mediator has to be started first before starting other processes<br>
 Ex :<br>
 ./Mediator  (In terminal 1)<br>
 ./Process 1 (In terminal 2)<br>
